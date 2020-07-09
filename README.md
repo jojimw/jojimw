@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+- A frontend developer who knows how to build React PWA applications
+- Slightly know a few stuff in backend, have worked on few Node.js projects
+- Basic knowledge App Development using React Native
+- Keen on learning new tech stacks
 
 <!--
 **jojimw/jojimw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
