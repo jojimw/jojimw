@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- A frontend developer who knows how to build React PWA applications
-- Slightly know a few stuff in backend, have worked on few Node.js projects
-- Basic knowledge App Development using React Native
+- A frontend developer with expertise in building React PWA applications
+- Knows a bit of backend stuff having worked on few Node.js projects
+- Basic knowledge in App Development using React Native
 - Keen on learning new tech stacks
 
 <!--
